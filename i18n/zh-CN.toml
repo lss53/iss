@@ -1,0 +1,272 @@
+# Translations for Simplified Chinese
+# 简体中文的翻译
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# === baseof ==
+[backToTop]
+other = "回到顶部"
+
+[viewComments]
+other = "查看评论"
+# === baseof ==
+
+# === Post ===
+[posts]
+other = "文章"
+# === Post ===
+
+# === Taxonomy ===
+[allSome]
+other = "所有{{ .Some }}"
+
+[tag]
+other = "标签"
+
+[tags]
+other = "标签"
+
+[category]
+other = "分类"
+
+[categories]
+other = "分类"
+
+[series]
+other = "系列"
+# === Taxonomy ===
+
+# === Section ===
+
+[recentlyUpdated]
+other = "最近更新"
+
+# === Section ===
+
+# === Pagination ===
+[more]
+other = "更多"
+# === Pagination ===
+
+# === partials/header.html ===
+[selectLanguage]
+other = "选择语言"
+
+[switchTheme]
+other = "切换主题"
+
+[Light]
+other = "浅色"
+
+[Dark]
+other = "深色"
+
+[Black]
+other = "黑色"
+
+[Auto]
+other = "跟随系统"
+# === partials/header.html ===
+
+# === partials/footer.html ===
+[poweredBy]
+other = "由 {{ .Hugo }} 强力驱动"
+
+[hostedOn]
+other = "托管在 {{ .Host }} 上"
+
+[theme]
+other = "主题 - {{ .Theme }}"
+# === partials/footer.html ===
+
+# === partials/comment.html ===
+[valineLang]
+other = "zh-cn"
+
+[valinePlaceholder]
+other = "你的评论 ..."
+
+[facebookLanguageCode]
+other = "zh_CN"
+# === partials/comment.html ===
+
+# === partials/assets.html ===
+[search]
+other = "搜索"
+
+[searchPlaceholder]
+other = "搜索文章标题或内容..."
+
+[clear]
+other = "清空"
+
+[cancel]
+other = "取消"
+
+[noResultsFound]
+other = "没有找到结果"
+
+[copyToClipboard]
+other = "复制到剪贴板"
+
+[cookieconsentMessage]
+other = "本网站使用 Cookies 来改善您的浏览体验."
+
+[cookieconsentDismiss]
+other = "同意"
+
+[cookieconsentLink]
+other = "了解更多"
+# === partials/assets.html ===
+
+# === partials/plugin/share.html ===
+[shareOn]
+other = "分享到"
+# === partials/plugin/share.html ===
+
+# === posts/single.html ===
+[contents]
+other = "目录"
+
+[publishedOnDate]
+other = "发布于 {{ .Date }}"
+
+[includedIn]
+other = "收录于 "
+
+[includedInAnd]
+other = "和"
+
+[includedInCategories]
+other = "类别 {{ .Categories }}"
+
+[includedInSeries]
+other = "系列 {{ .Series }}"
+
+[wordCount]
+other = "约 {{ .Count }} 字"
+
+[readingTime]
+other = "预计阅读 {{ .Count }} 分钟"
+
+[views]
+other = "次阅读"
+
+[comments]
+other = "条评论"
+
+[author]
+other = "作者"
+
+[updatedOnDate]
+other = "更新于 {{ .Date }}"
+
+[readMarkdown]
+other = "阅读原始文档"
+
+[viewSource]
+other = "查看源代码"
+
+[editThisPage]
+other = "编辑此页"
+
+[reportThisPage]
+other = "报告问题"
+
+[back]
+other = "返回"
+
+[home]
+other = "主页"
+
+[readMore]
+other = "阅读全文"
+
+[outdatedInfoWarningBefore]
+other = "本文最后更新于 "
+
+[outdatedInfoWarningAfter]
+other = "，文中内容可能已过时。"
+
+[sponsor]
+other = "赞赏"
+
+[relatedContent]
+other = "相关内容"
+# === posts/single.html ===
+
+# === 404.html ===
+[pageNotFound]
+other = "页面没找到"
+
+[pageNotFoundText]
+other = "抱歉, 您要查找的页面不存在."
+# === 404.html ===
+
+# === shortcodes/admonition.html ===
+[note]
+other = "注意"
+
+[abstract]
+other = "摘要"
+
+[info]
+other = "信息"
+
+[tip]
+other = "技巧"
+
+[success]
+other = "成功"
+
+[question]
+other = "问题"
+
+[warning]
+other = "警告"
+
+[failure]
+other = "失败"
+
+[danger]
+other = "危险"
+
+[bug]
+other = "Bug"
+
+[example]
+other = "示例"
+
+[quote]
+other = "引用"
+# === shortcodes/admonition.html ===
+
+# === shortcodes/version.html ===
+[new]
+other = "新增"
+
+[changed]
+other = "更改"
+
+[deleted]
+other = "删除"
+# === shortcodes/version.html ===
+
+# === 自定义 ===
+
+[goods_quote]
+other ="好物推荐 <span class='emoji'>💄</span> 部分链接可能带有 aff 推广，不喜可删！"
+
+[movie_desc]
+other ="我的 <a href='https://neodb.social/users/sw/' target='_blank' rel='noreferrer noopener nofollow'>NeoDB <i class='fas fa-external-link-alt'></i></a> 观影记录 ✨"
+
+[movie_normal]
+other ="常规"
+
+[movie_web_full_screen]
+other ="网页全屏"
+
+[movie_browser_full_screen]
+other ="全屏"
+
+[movie_exit_full_screen]
+other ="退出全屏"

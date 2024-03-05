@@ -1,0 +1,81 @@
+// ==============================
+// Custom style
+// 自定义样式
+// ==============================
+// 中英文切换前的图标
+$font-family-font-awesome: "Font Awesome 5 Free";
+#header-desktop {
+    .header-wrapper {
+        .menu {
+            .menu-item {
+                &.language::before {
+                    content: "\f1ab";
+                    font-family: $font-family-font-awesome;
+                    font-weight: 900;
+                    -moz-osx-font-smoothing: grayscale;
+                    -webkit-font-smoothing: antialiased;
+                    display: inline-block;
+                    font-style: normal;
+                    font-variant: normal;
+                    text-rendering: auto;
+                    line-height: 1;
+                    text-align: center;
+                    width: 1.25em;
+                    margin-right: 0.25rem;
+                }
+
+                .menu-item-nav {
+                    display: none;
+                }
+            }
+        }
+    }
+}
+
+// 好物引用样式
+.greyQuote {
+    blockquote {
+        position: relative;
+        border-left: 0.5rem solid #555 !important;
+        background-color: #f4f4f5 !important;
+        padding: 1rem 0 1rem 1rem !important;
+        border-top-left-radius: 0.25rem !important;
+        border-top-right-radius: 0.5rem !important;
+        border-bottom-right-radius: 0.5rem !important;
+        border-bottom-left-radius: 0.25rem !important;
+    }
+
+    blockquote::before {
+        position: absolute;
+        z-index: 1;
+        content: "";
+        width: 5rem;
+        height: 5rem;
+        bottom: -0.5rem;
+        inset-inline-end: 0.5rem;
+        opacity: .15;
+        background-color: currentColor;
+        -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Cpath d='M0,19.04v-8.62c-0.04-1.24,0.14-2.4,0.54-3.49S1.49,4.88,2.2,4.06C2.92,3.23,3.77,2.55,4.76,2C5.76,1.46,6.84,1.11,8,0.96 v3.72C6.58,5.17,5.6,5.89,5.07,6.85C4.55,7.8,4.29,8.98,4.29,10.37H8v8.67H0zM12,19.04v-8.62c-0.04-1.24,0.14-2.4,0.53-3.49 s0.95-2.05,1.66-2.87c0.71-0.83,1.57-1.51,2.56-2.06c0.99-0.54,2.08-0.89,3.24-1.04v3.72c-1.43,0.49-2.4,1.21-2.93,2.17c-0.53,0.96-0.79,2.13-0.79,3.52H20v8.67H12z'/%3E%3C/svg%3E");
+        mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Cpath d='M0,19.04v-8.62c-0.04-1.24,0.14-2.4,0.54-3.49S1.49,4.88,2.2,4.06C2.92,3.23,3.77,2.55,4.76,2C5.76,1.46,6.84,1.11,8,0.96 v3.72C6.58,5.17,5.6,5.89,5.07,6.85C4.55,7.8,4.29,8.98,4.29,10.37H8v8.67H0zM12,19.04v-8.62c-0.04-1.24,0.14-2.4,0.53-3.49 s0.95-2.05,1.66-2.87c0.71-0.83,1.57-1.51,2.56-2.06c0.99-0.54,2.08-0.89,3.24-1.04v3.72c-1.43,0.49-2.4,1.21-2.93,2.17c-0.53,0.96-0.79,2.13-0.79,3.52H20v8.67H12z'/%3E%3C/svg%3E");
+        transform: scaleX(-1);
+    }
+}
+
+[theme="dark"] {
+    .greyQuote {
+        blockquote {
+            background-color: $background-color_2 !important;
+            border-left: 0.5rem solid #22272e !important;
+        }
+    }
+}
+
+[theme="black"] {
+    .greyQuote {
+        blockquote {
+            background-color: $background-color_2 !important;
+            border-left: 0.5rem solid #22272e !important;
+        }
+    }
+}
+

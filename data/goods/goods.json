@@ -1,0 +1,27 @@
+{
+  "good": [
+    {
+      "image": "/assets/images/goods/chen_wensheng.png",
+      "price": "RMB ¥43.3",
+      "title": "基因前传从孟德尔到双螺旋",
+      "title_en": "",
+      "link": "https://item.jd.com/44615703573.html",
+      "note": "还原发现基因百年历程，解开所有生命的遗传密码",
+      "note_en": "",
+      "report": "",
+      "coupon": "https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAXYJK1olVQAFVV9UDEsQM2oNHFsRWwcAUFhfOA9IWzFXKwJQGEdAX0BDUxNIVThcREROCBlQCgJDUA5DX3BRXgdIU0RYEFJYDUwXB2kJGV8TXxFCWCk0aCxgYBxJbzJpO3JLPwk6ejBodxtBXj5NOnl7IzkBbElkfxhsQhtwBW1rIF8USy5IVhBoeD8cKmR2DCk-fwljeh9tbBJmHH5yPxUJQTdNYzRzbSJxAFF2LSo4fBJeXxlxTTthFWYWVittCilnSxpNBQd2HXAcDD1ZdzsUaDByTVcZbQcyVF9cCUsVB2wAGmslXQEyFTBYCUMQBl8JK1sTXA4BXVdaDU8RAms4HFscbVtAFhUBU3snM2w4HFscSQBwFQxJDjknM28LK1glXQcCXVZZDksQCmYUG1oWWAQDSF5bCUMUCmYPGV0SXQcyVl9cDEInM199ZgVsG3Z3UyZZTx1IAmhTXzx2IUVnJDczCjhoAih3Rw1VJQ8LAlsHfB9jMw"
+    }, 
+    {
+      "image": "/assets/images/goods/shengwu_yu_feishengwu_zhijian.png",
+      "price": "RMB ¥21",
+      "title": "生物与非生物之间",
+      "title_en": "",
+      "link": "",
+      "note": "博士学位和粘在脚掌上的饭粒一样。不拿不爽，拿了也没法吃。",
+      "note_en": "",
+      "report": "",
+      "coupon": ""
+    }
+
+  ]
+}
