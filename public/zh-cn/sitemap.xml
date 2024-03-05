@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/</loc><lastmod>2024-03-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/</loc><lastmod>2024-03-05T10:58:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/"
@@ -11,7 +11,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/"
                     /></url><url>
-            <loc>http://localhost:1313/categories/</loc><lastmod>2024-03-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/categories/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/categories/"
@@ -20,7 +20,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/categories/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/git/</loc><lastmod>2024-03-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/tags/git/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/tags/git/"
@@ -29,7 +29,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/tags/git/"
                     /></url><url>
-            <loc>http://localhost:1313/hello-git/</loc><lastmod>2024-03-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/hello-git/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/hello-git/"
@@ -38,7 +38,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/hello-git/"
                     /></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2024-03-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/posts/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/posts/"
@@ -47,7 +47,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/posts/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/</loc><lastmod>2024-03-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/tags/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/tags/"
@@ -56,16 +56,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/tags/"
                     /></url><url>
-            <loc>http://localhost:1313/series/blog/</loc><lastmod>2024-03-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://localhost:1313/en/series/blog/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://localhost:1313/series/blog/"
-                    /></url><url>
-            <loc>http://localhost:1313/authors/%E8%AF%97%E5%BE%80/</loc><lastmod>2024-03-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/authors/%E8%AF%97%E5%BE%80/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/authors/%E8%AF%97%E5%BE%80/"
@@ -74,34 +65,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/authors/%E8%AF%97%E5%BE%80/"
                     /></url><url>
-            <loc>http://localhost:1313/series/</loc><lastmod>2024-03-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://localhost:1313/en/series/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://localhost:1313/series/"
-                    /></url><url>
-            <loc>http://localhost:1313/categories/hobby/</loc><lastmod>2024-03-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://localhost:1313/en/categories/hobby/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://localhost:1313/categories/hobby/"
-                    /></url><url>
-            <loc>http://localhost:1313/authors/</loc><lastmod>2024-03-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://localhost:1313/en/authors/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://localhost:1313/authors/"
-                    /></url><url>
-            <loc>http://localhost:1313/hello-hugo/</loc><lastmod>2024-02-17T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>http://localhost:1313/hello-hugo/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/hello-hugo/"
@@ -110,7 +74,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/hello-hugo/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/hugo/</loc><lastmod>2024-02-17T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>http://localhost:1313/tags/hugo/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/tags/hugo/"
@@ -119,7 +83,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/tags/hugo/"
                     /></url><url>
-            <loc>http://localhost:1313/showcase/</loc><lastmod>2024-02-16T20:08:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><xhtml:link
+            <loc>http://localhost:1313/showcase/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/showcase/"
@@ -128,7 +92,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/showcase/"
                     /></url><url>
-            <loc>http://localhost:1313/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/about/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/about/"
@@ -137,7 +101,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/about/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/installation/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/tags/installation/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/tags/installation/"
@@ -146,7 +110,16 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/tags/installation/"
                     /></url><url>
-            <loc>http://localhost:1313/movie/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/series/blog/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:1313/en/series/blog/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="http://localhost:1313/series/blog/"
+                    /></url><url>
+            <loc>http://localhost:1313/movie/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/movie/"
@@ -155,7 +128,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/movie/"
                     /></url><url>
-            <loc>http://localhost:1313/goods/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/goods/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/goods/"
@@ -164,7 +137,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/goods/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/tags/content/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/tags/content/"
@@ -173,7 +146,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/tags/content/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/configuration/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/tags/configuration/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/tags/configuration/"
@@ -182,7 +155,7 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/tags/configuration/"
                     /></url><url>
-            <loc>http://localhost:1313/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/categories/documentation/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/categories/documentation/"
@@ -190,4 +163,40 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="http://localhost:1313/categories/documentation/"
+                    /></url><url>
+            <loc>http://localhost:1313/series/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:1313/en/series/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="http://localhost:1313/series/"
+                    /></url><url>
+            <loc>http://localhost:1313/categories/hobby/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:1313/en/categories/hobby/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="http://localhost:1313/categories/hobby/"
+                    /></url><url>
+            <loc>http://localhost:1313/go/</loc><lastmod>2024-03-05T10:58:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:1313/en/go/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="http://localhost:1313/go/"
+                    /></url><url>
+            <loc>http://localhost:1313/authors/</loc><lastmod>2024-03-05T09:57:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:1313/en/authors/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="http://localhost:1313/authors/"
                     /></url></urlset>
