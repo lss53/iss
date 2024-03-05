@@ -88,7 +88,7 @@
   weight = 10
 [[main]]
   identifier = "NAS"
-  pre = "<i class='fas fa-cloud'></i>"
+  pre = "<i class='fas fa-link'></i>"
   post = ""
   name = ""
   url = "https://pan.211777.xyz"
