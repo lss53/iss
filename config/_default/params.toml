@@ -63,7 +63,7 @@ srcsetLargeResizeMethod = "2000x webp Lanczos q75"
   [header.title]
     # URL of the LOGO
     # LOGO 的 URL
-    logo = ""
+    logo = "" #/avatar.svg
     # title name
     # 标题名称
     name = "诗往"
