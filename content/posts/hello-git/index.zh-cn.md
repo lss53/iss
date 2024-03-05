@@ -59,7 +59,7 @@ git clone username@host:/path/to/repository
 ## 工作流
 
 你的本地仓库由 git 维护的三棵“树”组成。第一个是你的`工作目录`，它持有实际文件；第二个是`暂存区（Index）`，它像个缓存区域，临时保存你的改动；最后是`HEAD`，它指向你最后一次提交的结果。 
-{{< image src="trees.webp" caption="基本配置下的预览" width="2450" height="1562" >}}
+{{< image src="trees.webp" caption="工作流" width="2450" height="1562" >}}
 
 ## 添加和提交
 
