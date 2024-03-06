@@ -95,7 +95,7 @@ echo "theme = 'ananke'" >> hugo.toml
 
 启动 Hugo 的开发服务器以查看网站。
 ```bash
-echo "theme = 'ananke'" >> hugo.toml
+hugo server
 ```
 
 按 `Ctrl + C` 停止 Hugo 的开发服务器。
