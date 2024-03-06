@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Series - Series - </title>
+        <title>Series - Series - 诗往</title>
         <link>http://localhost:1313/en/series/</link>
-        <description>Series - Series - </description>
+        <description>Series - Series - 诗往</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://localhost:1313/en/series/" rel="self" type="application/rss+xml" /><item>
     <title>Blog</title>
     <link>http://localhost:1313/en/series/blog/</link>

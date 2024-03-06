@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>作者 - 作者 - </title>
+        <title>作者 - 作者 - 诗往</title>
         <link>http://localhost:1313/authors/</link>
-        <description>作者 - 作者 - </description>
+        <description>作者 - 作者 - 诗往</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://localhost:1313/authors/" rel="self" type="application/rss+xml" /><item>
     <title>诗往</title>
     <link>http://localhost:1313/authors/%E8%AF%97%E5%BE%80/</link>
