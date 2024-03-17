@@ -1,5 +1,5 @@
 ---
-title: "Hello Hugo"
+title: "Hugo 快速入门"
 date: 2024-02-17
 draft: false
 authors: ["诗往"]
@@ -187,7 +187,7 @@ hugo server -D
 hugo
 ```
 
-要了解如何部署您的网站，请参阅托管和部署部分。
+要了解如何部署您的网站，请参阅[托管和部署](https://gohugo.io/hosting-and-deployment/)部分。
 
 
 

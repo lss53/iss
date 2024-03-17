@@ -1,5 +1,5 @@
 ---
-title: "Hello Hugo"
+title: "Hugo Quick start"
 date: 2024-02-17
 draft: false
 authors: ["诗往"]
@@ -189,5 +189,5 @@ When you publish your site, you typically do not want to include [draft, future,
 hugo
 ```
 
-To learn how to deploy your site, see the hosting and deployment section.
+To learn how to deploy your site, see the [hosting and deployment](https://gohugo.io/hosting-and-deployment/) section.
 
