@@ -1,5 +1,5 @@
 ---
-title: "Host Hugo on Cloudflare Pages"
+title: "Hugo on Cloudflare Pages"
 date: 2024-03-16
 draft: false
 authors: ["诗往"]
