@@ -83,7 +83,7 @@ keywords = ["学习", "生活"]
     avatarLinkURL = ""
     # title shown in home page (HTML format is supported)
     # 主页显示的网站标题 (支持 HTML 格式)
-    title = "诗往"
+    title = "诗往の博客"
     # subtitle shown in home page
     # 主页显示的网站副标题
     subtitle = ""
