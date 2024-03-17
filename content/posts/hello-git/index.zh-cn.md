@@ -9,7 +9,7 @@ featuredImage: "trees.webp"
 tags: ["git"]
 categories: ["hobby"]
 series: ["blog"]
-series_weight: 2
+series_weight: 3
 lightgallery: true
 
 toc:
