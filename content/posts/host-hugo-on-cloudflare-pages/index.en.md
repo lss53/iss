@@ -22,7 +22,7 @@ In this guide, you will create a new Hugo application and deploy it using Cloudf
 
 <!--more-->
 
-​​## Before you continue
+## Before you continue
 
 All of the framework guides assume you already have a fundamental understanding of [Git](https://git-scm.com/). If you are new to Git, refer to this [summarized Git handbook](https://guides.github.com/introduction/git-handbook/) on how to set up Git on your local machine.
 
@@ -32,11 +32,11 @@ Refer to the [GitHub documentation](https://guides.github.com/introduction/git-h
 
 Go to [Deploy with Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/#deploy-with-cloudflare-pages) if you already have a Hugo site hosted with your [Git provider](https://developers.cloudflare.com/pages/get-started/git-integration/).
 
-​​## Install Hugo
+## Install Hugo
 
 Install the Hugo CLI, using the specific instructions for your operating system below:
 
-​​### Linux
+### Linux
 
 Your Linux distro’s package manager may include Hugo. If this is the case, install it directly using your distro’s package manager – for instance, in Ubuntu, run the following command:
   
@@ -46,7 +46,7 @@ $ sudo apt-get install hugo
 
 If your package manager does not include Hugo or you would like to download a release directly, refer to the [Manual](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/#manual-installation) section.
 
-​​### Homebrew (macOS)
+### Homebrew (macOS)
 
 If you use the package manager [Homebrew](https://brew.sh/), run the `brew install` command in your terminal to install Hugo:
   
@@ -54,7 +54,7 @@ If you use the package manager [Homebrew](https://brew.sh/), run the `brew insta
 $ brew install hugo
 ```
 
-​​### Windows (Chocolatey)
+### Windows (Chocolatey)
 
 If you use the package manager [Chocolatey](https://chocolatey.org/), run the `choco install` command in your terminal to install Hugo:
 
@@ -62,7 +62,7 @@ If you use the package manager [Chocolatey](https://chocolatey.org/), run the `c
 $ choco install hugo --confirm
 ```
 
-​​### Windows (Scoop)
+### Windows (Scoop)
 
 If you use the package manager [Scoop](https://scoop.sh/), run the `scoop install` command in your terminal to install Hugo:
   
@@ -70,13 +70,13 @@ If you use the package manager [Scoop](https://scoop.sh/), run the `scoop instal
 $ scoop install hugo
 ```
 
-​​### Manual installation
+### Manual installation
 
 The Hugo GitHub repository contains pre-built versions of the Hugo command-line tool for various operating systems, which can be found on [the Releases page](https://github.com/gohugoio/hugo/releases).
 
 For more instruction on installing these releases, refer to [Hugo’s documentation](https://gohugo.io/getting-started/installing/).
 
-​​## Create a new project
+## Create a new project
 
 With Hugo installed, refer to [Hugo’s Quick Start](https://gohugo.io/getting-started/quick-start/) to create your project or create a new project by running the `hugo new` command in your terminal:
 
@@ -170,7 +170,7 @@ paginate = 5
         url = "/showcase"
 ```
 
-​​## Create a post
+## Create a post
 
 Create a new post to give your Hugo site some initial content. Run the `hugo new` command in your terminal to generate a new post:
   
@@ -180,7 +180,7 @@ $ hugo new posts/hello-world.md
 
 Inside of `hello-world.md`, add some initial content to create your post. Remove the `draft` line in your post’s frontmatter when you are ready to publish the post. Any posts with `draft: true` set will be skipped by Hugo’s build process.
 
-​​## Create a GitHub repository
+## Create a GitHub repository
 
 Create a new GitHub repository by visiting [repo.new](https://repo.new/). After creating a new repository, go to your newly created project directory to prepare and push your local application to GitHub by running the following commands in your terminal:
 
@@ -190,7 +190,7 @@ $ git branch -M main
 $ git push -u origin main
 ```
 
-​​## Deploy with Cloudflare Pages
+## Deploy with Cloudflare Pages
 
 To deploy your site to Pages:
 
@@ -221,7 +221,7 @@ After completing deployment configuration, select the **Save and Deploy**. You s
 
 After deploying your site, you will receive a unique subdomain for your project on `*.pages.dev`. Every time you commit new code to your Hugo site, Cloudflare Pages will automatically rebuild your project and deploy it. You will also get access to [preview deployments](https://developers.cloudflare.com/pages/configuration/preview-deployments/) on new pull requests, so you can preview how changes look to your site before deploying them to production.
 
-​​## Use a specific or newer Hugo version
+## Use a specific or newer Hugo version
 
 To use a [specific or newer version of Hugo](https://github.com/gohugoio/hugo/releases), create the `HUGO_VERSION` environment variable in your Pages project > **Settings** > **Environment variables**. Set the value as the Hugo version you want to specify (v0.112.0 or later is recommended for newer versions).
 
@@ -229,5 +229,5 @@ For example, `HUGO_VERSION: 0.115.4`.
 
 > If you plan to use [preview deployments](https://developers.cloudflare.com/pages/configuration/preview-deployments/), make sure you also add environment variables to your **Preview** environment.
 
-​​## Learn more
+## Learn more
 By completing this guide, you have successfully deployed your Hugo site to Cloudflare Pages. To get started with other frameworks, [refer to the list of Framework guides](https://developers.cloudflare.com/pages/framework-guides/).
