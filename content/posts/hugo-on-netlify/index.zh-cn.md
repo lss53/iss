@@ -4,7 +4,7 @@ date: 2024-03-17
 draft: false
 authors: ["诗往"]
 description: "使用 Netlify 部署 Hugo 网站"
-featuredImage: ""
+featuredImage: "featured-image.webp"
 
 tags: ["hugo", "netlify"]
 categories: ["hobby"]
@@ -53,9 +53,9 @@ Netlify 上的 Hugo 站点可以从自动框架检测和对 Hugo 版本选择的
 
 2. 然后，在设置站点时在 Netlify UI 中或存储库中存储的 [Netlify 配置文件](https://docs.netlify.com/configure-builds/file-based-configuration/)中添加[环境变量](https://docs.netlify.com/environment-variables/overview/)。
 
-按照步骤[从现有存储库导入](https://docs.netlify.com/welcome/add-new-site)，然后在“**配置站点和部署**”步骤中，选择“**添加环境变量**”。选择“**新建变量**”，然后输入键和值。
+- 按照步骤[从现有存储库导入](https://docs.netlify.com/welcome/add-new-site)，然后在“**配置站点和部署**”步骤中，选择“**添加环境变量**”。选择“**新建变量**”，然后输入键和值。
 
-或者，将以下内容添加到站点的[根目录](https://docs.netlify.com/configure-builds/overview/#definitions-1)中，其中是一个版本字符串，例如 .`netlify.tomlYOUR_HUGO_VERSION0.80.0`
+- 或者，将以下内容添加到站点的[根目录](https://docs.netlify.com/configure-builds/overview/#definitions-1)中，其中是一个版本字符串，例如 .`netlify.tomlYOUR_HUGO_VERSION0.80.0`
 
 ```toml
 [build]
@@ -66,9 +66,12 @@ Netlify 上的 Hugo 站点可以从自动框架检测和对 Hugo 版本选择的
   HUGO_VERSION = "YOUR_HUGO_VERSION"
 ```
 
-> 构建失败？
-> 
-> 如果您在Netlify上构建Hugo站点时遇到错误，请记住设置为您在本地使用的版本。`exit code: 255HUGO_VERSION`
+{{< admonition tip >}}
+构建失败？
+
+如果您在Netlify上构建Hugo站点时遇到错误，请记住设置为您在本地使用的版本。`exit code: 255HUGO_VERSION`
+{{< /admonition >}}
+
 
 ## Hugo主题
 
@@ -83,6 +86,6 @@ git submodule add https://github.com/THEME_CREATOR/THEME_NAME
 ```
 
 ## 更多资源
-[典型的 Hugo 构建设置](https://docs.netlify.com/frameworks/#hugo)
-[在 Netlify 上托管 Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
-[Hugo 文档](https://gohugo.io/documentation/)
+- [典型的 Hugo 构建设置](https://docs.netlify.com/frameworks/#hugo)
+- [在 Netlify 上托管 Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
+- [Hugo 文档](https://gohugo.io/documentation/)

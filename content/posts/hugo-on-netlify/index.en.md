@@ -63,11 +63,11 @@ By default we’ll use the Hugo version that is preinstalled in your site’s in
 [build.environment]
   HUGO_VERSION = "YOUR_HUGO_VERSION"
 ```
+{{< admonition tip >}}
+Failed build?
 
-> Failed build?
-> 
-> If you get an error with when building a Hugo site on Netlify, remember to set to the version you are using locally.`exit code: 255HUGO_VERSION`
-
+If you get an error with when building a Hugo site on Netlify, remember to set to the version you are using locally.`exit code: 255HUGO_VERSION`
+{{< /admonition >}}
 ## Hugo themes
 
 Hugo themes work by default on Netlify. Like any continuous integration system, however, Netlify can’t use a theme installed by the method. Instead, you should install a Hugo theme for your site as a [git submodule](https://git-scm.com/docs/gitsubmodules).`git clone`
@@ -82,6 +82,6 @@ git submodule add https://github.com/THEME_CREATOR/THEME_NAME
 
 ## More resources
 
-[Typical Hugo build settings](https://docs.netlify.com/frameworks/#hugo)
-[Host Hugo on Netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
-[Hugo documentation](https://gohugo.io/documentation/)
+- [Typical Hugo build settings](https://docs.netlify.com/frameworks/#hugo)
+- [Host Hugo on Netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
+- [Hugo documentation](https://gohugo.io/documentation/)
