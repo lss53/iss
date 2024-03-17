@@ -199,7 +199,7 @@ To deploy your site to Pages:
 3.Select the new GitHub repository that you created and, in the **Set up builds and deployments** section, provide the following information:
 
 |  Configuration  | option  |
-|  ----  |  ----  | 
+|  :----:  |  :----:  | 
 |  Production branch  |  main  |
 |  Build command  |  hugo  |
 |  Build directory  |  public  |
