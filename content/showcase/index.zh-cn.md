@@ -5,4 +5,4 @@ draft: false
 
 ---
 
-{{< showcase "免费建站 - 基本概念" "基于 Hugo + Github + CloudFlare" "/host-hugo-on-cloudflare-pages/featured-image.webp" "/hugo-quick-start/" >}}
+{{< showcase "免费建站 - 基本概念" "Hugo 的托管和部署" "/hugo-quick-start/featured-image.webp" "/hugo-quick-start/" >}}
