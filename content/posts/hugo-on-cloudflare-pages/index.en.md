@@ -30,7 +30,7 @@ If you clone with SSH, you must [generate SSH keys](https://docs.github.com/en/g
 
 Refer to the [GitHub documentation](https://guides.github.com/introduction/git-handbook/) and [Git documentation](https://git-scm.com/book/en/v2) for more information.
 
-Go to [Deploy with Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/#deploy-with-cloudflare-pages) if you already have a Hugo site hosted with your [Git provider](https://developers.cloudflare.com/pages/get-started/git-integration/).
+Go to [Deploy with Cloudflare Pages](#deploy-with-cloudflare-pages) if you already have a Hugo site hosted with your [Git provider](https://developers.cloudflare.com/pages/get-started/git-integration/).
 
 ## Install Hugo
 
@@ -44,7 +44,7 @@ Your Linux distro’s package manager may include Hugo. If this is the case, ins
 $ sudo apt-get install hugo
 ```
 
-If your package manager does not include Hugo or you would like to download a release directly, refer to the [Manual](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/#manual-installation) section.
+If your package manager does not include Hugo or you would like to download a release directly, refer to the [**Manual**](#manual-installation) section.
 
 ### Homebrew (macOS)
 

@@ -29,7 +29,7 @@ toc:
 
 ​有关更多信息，请参阅 [GitHub 文档](https://guides.github.com/introduction/git-handbook/) 和 [Git 文档](https://git-scm.com/book/en/v2)。
 
-如果您已经有一个使用 [Git 提供程序](https://developers.cloudflare.com/pages/get-started/git-integration/)托管的 Hugo 网站，请转到“[使用 Cloudflare Pages 部署](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/#deploy-with-cloudflare-pages)”。
+如果您已经有一个使用 [Git 提供程序](https://developers.cloudflare.com/pages/get-started/git-integration/)托管的 Hugo 网站，请转到“[使用 Cloudflare Pages 部署](#使用-cloudflare-pages-部署)”。
 
 ## 安装 Hugo
 
@@ -43,7 +43,7 @@ toc:
 $ sudo apt-get install hugo
 ```
 
-如果您的包管理器不包含 Hugo，或者您想直接下载版本，请参阅“[手动](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/#manual-installation)”部分。
+如果您的包管理器不包含 Hugo，或者您想直接下载版本，请参阅“**[手动安装](#手动安装)**”部分。
 
 ### Homebrew (macOS)
 
@@ -75,7 +75,7 @@ Hugo GitHub 存储库包含针对各种操作系统的预构建版本的 Hugo �
 
 有关安装这些版本的更多说明，请参阅 [Hugo 文档](https://gohugo.io/getting-started/installing/)。
 
-创建新项目
+## 创建新项目
 
 安装 Hugo 后，请参阅 [Hugo 快速入门指南](https://gohugo.io/getting-started/quick-start/)来创建您的项目，或者在终端中运行 `hugo new` 命令来创建新项目：
 
