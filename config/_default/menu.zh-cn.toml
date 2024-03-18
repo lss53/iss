@@ -86,11 +86,11 @@
   url = "/goods/"
   title = "好物推荐"
   weight = 10
-[[main]]
-  identifier = "NAS"
-  pre = "<i class='fas fa-link'></i>"
-  post = ""
-  name = ""
-  url = "https://pan.211777.xyz"
-  title = "网络硬盘(NAS)"
-  weight = 11
+# [[main]]
+#   identifier = "NAS"
+#   pre = "<i class='fas fa-link'></i>"
+#   post = ""
+#   name = ""
+#   url = "https://pan.211777.xyz"
+#   title = "网络硬盘(NAS)"
+#   weight = 11
