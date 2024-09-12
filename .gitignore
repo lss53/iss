@@ -1,8 +1,8 @@
 # this is .gitignore file.
 # 以下是忽略的文件
 
-public
-public.*
+public/
+scripts/
 resources/_gen/
 .hugo_build.lock
 
