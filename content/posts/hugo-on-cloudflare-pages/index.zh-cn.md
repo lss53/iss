@@ -7,8 +7,8 @@ description: "使用 Cloudflare Pages 部署 Hugo 网站"
 featuredImage: "featured-image.webp"
 
 tags: ["hugo", "Cloudflare"]
-categories: ["blog"]
-series: ["hobby"]
+categories: ["hobby"]
+series: ["blog"]
 series_weight: 2
 lightgallery: true
 toc:

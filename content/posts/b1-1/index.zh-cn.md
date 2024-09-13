@@ -2,13 +2,13 @@
 title: "1走近细胞"
 date: 2024-09-12
 draft: false
-authors: ["一生儿"]
+authors: ["诗往"]
 description: "讲解基础知识，从零开始也看的懂"
 featuredImage: "featured-image.webp"
 
 tags: ["必修1", "知识"]
-categories: ["biology"]
-series: ["job"]
+categories: ["job"]
+series: ["biology"]
 series_weight: 1
 lightgallery: true
 toc:

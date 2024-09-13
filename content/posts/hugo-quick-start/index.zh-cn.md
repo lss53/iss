@@ -7,8 +7,8 @@ description: "几分钟内学会创建 Hugo 网站。"
 featuredImage: "featured-image.webp"
 
 tags: ["hugo"]
-categories: ["blog"]
-series: ["hobby"]
+categories: ["hobby"]
+series: ["blog"]
 series_weight: 1
 lightgallery: true
 

@@ -7,8 +7,8 @@ description: "使用 Netlify 部署 Hugo 网站"
 featuredImage: "featured-image.webp"
 
 tags: ["hugo", "netlify"]
-categories: ["blog"]
-series: ["hobby"]
+categories: ["hobby"]
+series: ["blog"]
 series_weight: 3
 lightgallery: true
 toc:
