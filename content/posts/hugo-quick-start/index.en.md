@@ -7,8 +7,8 @@ description: "Learn to create a Hugo site in minutes."
 featuredImage: "featured-image.webp"
 
 tags: ["hugo"]
-categories: ["hobby"]
-series: ["blog"]
+categories: ["blog"]
+series: ["hobby"]
 series_weight: 1
 lightgallery: true
 license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'

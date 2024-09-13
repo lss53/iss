@@ -7,8 +7,8 @@ description: "Deploy the Hugo website using Cloudflare Pages."
 featuredImage: "featured-image.webp"
 
 tags: ["hugo", "cloudflare"]
-categories: ["hobby"]
-series: ["blog"]
+categories: ["blog"]
+series: ["hobby"]
 series_weight: 2
 lightgallery: true
 license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
