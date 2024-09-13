@@ -57,9 +57,9 @@ PDF补丁丁是一个用于修改PDF文件信息的工具。
 
 ## 开源地址：
 
-[https://github.com/wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)
+- [https://github.com/wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)
 
 
 ## 下载地址：
 
-[https://www.cnblogs.com/pdfpatcher](https://www.cnblogs.com/pdfpatcher)
+- [https://www.cnblogs.com/pdfpatcher](https://www.cnblogs.com/pdfpatcher)
