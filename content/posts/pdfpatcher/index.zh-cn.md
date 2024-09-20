@@ -4,7 +4,7 @@ date: 2024-09-13
 draft: false
 authors: ["诗往"]
 description: "一个用于修改PDF文件信息的工具"
-featuredImage: "PDFPatcher.webp"
+featuredImage: "pdfpatcher.webp"
 
 tags: ["办工软件"]
 categories: ["hobby"]
